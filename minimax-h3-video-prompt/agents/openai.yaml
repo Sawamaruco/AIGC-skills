@@ -1,0 +1,4 @@
+interface:
+  display_name: "MiniMax H3 Video Prompt"
+  short_description: "MiniMax H3 T2VA/I2VA/FL2VA/L2VA prompts from Chinese input"
+  default_prompt: "Use $minimax-h3-video-prompt to turn my Chinese scene description and frames into an English MiniMax H3 video prompt."

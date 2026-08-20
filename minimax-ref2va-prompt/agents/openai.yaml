@@ -1,0 +1,3 @@
+interface:
+  display_name: "MiniMax Ref2VA Prompt"
+  short_description: "Generate 6-block Context-IR video-edit prompts for MiniMax Ref2VA"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Anima Prompt Writer"
+  short_description: "将中文描述润色为 Anima 文生图英文提示词"
